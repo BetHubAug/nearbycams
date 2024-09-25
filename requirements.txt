@@ -1,0 +1,4 @@
+requests
+shodan
+geocoder
+python-nmap
